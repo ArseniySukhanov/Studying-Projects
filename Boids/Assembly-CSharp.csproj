@@ -688,6 +688,15 @@
      <Reference Include="Unity.VisualScripting.Core">
      <HintPath>C:/Users/derle/OneDrive/Documents/GameCreation/Studying Projects/Boids/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.Sysroot.Linux_x86_64">
+     <HintPath>C:/Users/derle/OneDrive/Documents/GameCreation/Studying Projects/Boids/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Toolchain.Win-x86_64-Linux-x86_64">
+     <HintPath>C:/Users/derle/OneDrive/Documents/GameCreation/Studying Projects/Boids/Library/ScriptAssemblies/Unity.Toolchain.Win-x86_64-Linux-x86_64.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.SysrootPackage.Editor">
+     <HintPath>C:/Users/derle/OneDrive/Documents/GameCreation/Studying Projects/Boids/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+     </Reference>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
