@@ -9,3 +9,6 @@ As the name suggests there are game prototypes which I made in the process of st
 * Prospector Solitaire
 * Space SHMUP
 * Word Game
+# Additional information
+Last builds of the prototypes in their Build folders
+Screenshots of the prototypes in their Screenshots folders
