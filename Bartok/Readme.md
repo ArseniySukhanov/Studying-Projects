@@ -4,5 +4,9 @@ If player does not have such card he should take another one from the draw pile 
 Also at this version of the game there are 3 AI players and one human.
 
 More information about the game you could read at the [Bartok](https://en.wikipedia.org/wiki/Bartok_(card_game))
+
+![Screenshot0](https://github.com/ArseniySukhanov/Studying-Projects/blob/main/Bartok/Screenshots/Screenshot0.png)
+![Screenshot1](https://github.com/ArseniySukhanov/Studying-Projects/blob/main/Bartok/Screenshots/Screenshot1.png)
+![Screenshot2](https://github.com/ArseniySukhanov/Studying-Projects/blob/main/Bartok/Screenshots/Screenshot2.png)
 # Controls
 Player chooses card which he will put by pressing on it with mouse pointer or could press on draw pile to draw one.
